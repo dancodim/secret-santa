@@ -1,3 +1,6 @@
 {
-    
+    "games": [
+        { "id": 1, "name": "Secret Santa 2020", "active": true },
+        { "id": 2, "name": "Secret Santa 2019", "active": false }
+    ]
 }
